@@ -24,3 +24,4 @@ This repo contains 2 lectures worth of materials.
 * Describe what Brain Computer Interfaces represents
 * Describe some applications of BCI and where machine learning can be applied. 
 * Be able to apply PCA to perform spike sorting
+* Given neural recording data associated with a classification task (e.g. move a mouse cursor to left or to the right), the student should be able to (a) preprocess the data (b) split the data into training, (validation), and testing sets and (c) apply a machine learning model to perform classification (the student should at least be able to perform linear regression)
