@@ -3,7 +3,7 @@
 ## Team 5-5
 
 ### **Project T**
-### Week 10: The SVD and PCA. Minimum norm solutions. The idea of brain-machine interfaces.
+### Week 10: SVD, PCA, Minimum norm solutions. Brain-Machine Interfaces and ML Applications.
 
 This repo contains 2 lectures worth of materials. 
 
